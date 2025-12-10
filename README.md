@@ -1,10 +1,12 @@
 # CPE009A - CPE12S1
-# 💫 Hello! I'm Loreen
+# 💫 Hello! I'm Loreen Pilapil,
 # About Me:
-🌱 I’m currently learning Phyton<br>#newbie
+🌱 I’m currently learning Phyton #newbie <br> 
+Some of my projects are available at [https://github.com/Pilapilcpe/CPE201A_FP_PILAPIL.git](https://github.com/Pilapilcpe/CPE201A_FP_PILAPIL.git)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pilapilcpe&label=Profile%20views&color=0e75b6&style=flat" alt="pilapilcpe" /> </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qljpilapil@tip.edu.ph) 
 
 # 💻 Tech Stack:
